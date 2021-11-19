@@ -13,7 +13,7 @@ headers = {
 
 count = 0
 
-while count<22: #循环22次
+while count<22: #循环22次一次20人，需要次数自行修改
     count = count+1    
     data = {"gc":"",#群号
         "st":"0",
